@@ -10,4 +10,8 @@ module.exports = function(app){
     //     //something.push(req.body);
     //     //else....
     // });
+    app.post("/api/friends", function(req, res){
+        var newFriend = req.body;
+        friendData.push(newFriend);
+    });
 };
