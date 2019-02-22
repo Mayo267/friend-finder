@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Mayo267/friend-finder"
   },
-  "homepage": "https://github.com/Mayo267/friend-finder",
+  "homepage": "https://github.com/Mayo267/friend-finder#readme",
   "dependencies": {
     "express": "^4.16.4"
   }
