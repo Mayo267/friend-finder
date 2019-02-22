@@ -8,12 +8,9 @@
     "start": "node server.js",
     "watch": "nodemon server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Mayo267/friend-finder.git"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"}
+    "express": "^4.16.3"
+  }
 }
